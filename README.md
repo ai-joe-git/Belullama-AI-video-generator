@@ -205,11 +205,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [gTTS](https://gtts.readthedocs.io/)
 - [Storyblocks](https://www.storyblocks.com/)
 
-## 📧 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/autoyoutube-generator](https://github.com/yourusername/autoyoutube-generator)
 
 ## ⚠️ Disclaimer
 
